@@ -2,6 +2,8 @@
 
 Модуль для консольных приложений на C#, вычисляющий значение квадратичного выражения x² + x·y − y² для двух введенных чисел.
 
+<img width="649" height="149" alt="quadratic-expression-calculator" src="https://github.com/user-attachments/assets/7c25deb5-7d7e-46cc-bfa3-13690b89948b" />
+
 ## Функциональность
 
 - Ввод двух чисел (могут быть дробными)
